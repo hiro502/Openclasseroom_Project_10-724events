@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Openclasseroom_Project_10-724events/static/css/main.19c111df.css",
+    "main.js": "/Openclasseroom_Project_10-724events/static/js/main.21e61678.js",
+    "static/js/453.c8132b87.chunk.js": "/Openclasseroom_Project_10-724events/static/js/453.c8132b87.chunk.js",
+    "index.html": "/Openclasseroom_Project_10-724events/index.html",
+    "main.19c111df.css.map": "/Openclasseroom_Project_10-724events/static/css/main.19c111df.css.map",
+    "main.21e61678.js.map": "/Openclasseroom_Project_10-724events/static/js/main.21e61678.js.map",
+    "453.c8132b87.chunk.js.map": "/Openclasseroom_Project_10-724events/static/js/453.c8132b87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19c111df.css",
+    "static/js/main.21e61678.js"
+  ]
+}
