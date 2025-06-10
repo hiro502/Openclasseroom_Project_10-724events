@@ -23,4 +23,4 @@ Réalisation des tests grâce à des codes de test utilisant Jest.
 
 ## Lien vers la page en ligne
 
-[Visitez le site ici](https://hiro502.github.io/Openclasseroom_Project_10-724events/)
+[Visitez le site ici](https://openclasseroom-project-10-724events-ouoiwsaix-hiro502s-projects.vercel.app/)
